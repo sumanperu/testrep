@@ -1,0 +1,29 @@
+// JavaScript Document
+
+{
+	"company1":{
+		"item1":"20",
+		"item2":"20",
+		"item3":"20",
+		"item4":"20"
+	},
+	"company2":{
+		"item1":"20",
+		"item2":"20",
+		"item3":"20",
+		"item4":"20"
+	},
+	"company3":{
+		"item1":"20",
+		"item2":"20",
+		"item3":"20",
+		"item4":"20"
+	},
+	"company4":{
+		"item1":"20",
+		"item2":"20",
+		"item3":"20",
+		"item4":"20"
+	}
+	
+}
